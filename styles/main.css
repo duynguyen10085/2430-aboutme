@@ -29,18 +29,22 @@ h1 {
     font-size: 4em;
     font-weight: 900;
     text-shadow: 0.02em 0.04em #403D58;
-    color: green;
+    color: deeppink;
 }
 
 h2 {
+    text-shadow: 0.02em 0.08em deeppink;
     font-style: italic;
     border-bottom: 0.1em solid #48918e;
     padding: 0.5em;
     margin: 1.6em 0;
+    color: #403D58;
 }
 
 section p {
     text-indent: 2.8em;
+    line-height: 1.5em;
+    margin-bottom: 2em;
 }
 
 .project {
